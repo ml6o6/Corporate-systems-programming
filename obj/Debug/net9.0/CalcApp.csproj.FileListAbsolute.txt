@@ -1,0 +1,14 @@
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\bin\Debug\net9.0\CalcApp.exe
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\bin\Debug\net9.0\CalcApp.deps.json
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\bin\Debug\net9.0\CalcApp.runtimeconfig.json
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\bin\Debug\net9.0\CalcApp.dll
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\bin\Debug\net9.0\CalcApp.pdb
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\CalcApp.AssemblyInfoInputs.cache
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\CalcApp.AssemblyInfo.cs
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\CalcApp.dll
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\refint\CalcApp.dll
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\CalcApp.pdb
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\CalcApp.genruntimeconfig.cache
+C:\Users\smirn\OneDrive\Рабочий стол\Corporate systems\Calculator\CalcApp\obj\Debug\net9.0\ref\CalcApp.dll
